@@ -10,7 +10,7 @@ faq/is_programming_required,Is programming required?,
 faq/opensource_cost,Is Rasa open-source and free?,
 faq/ee,What is Rasa X Enterprise Edition?,
 faq/python_version,Which Python version is needed?,
-faq/rasax,What is Rasa X?
+faq/rasax,What is Rasa X?,
 faq/slots,What are slots?,
 faq/tutorialcore,I want a tutorial for Rasa Core.,
 faq/tutorialnlu,I want a tutorial for Rasa NLU.,
